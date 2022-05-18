@@ -1,0 +1,15 @@
+{
+  "name": "build-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fateme",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
